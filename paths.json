@@ -1,5 +1,6 @@
 {
   "test.md": "Test",
   "tsn.html": "The Studio Network",
-  "zoom/how": "How"
+  "zoom/how": "How",
+  "development/state_machine.md": "State Machine"
 }
