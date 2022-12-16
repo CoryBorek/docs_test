@@ -9,5 +9,15 @@
     "introduction$software-overview.md": "Software Overview",
     "planning": "Planning",
     "planning$2018-goals.md": "2018 Goals",
-    "systems": "Systems"
+    "systems": "Systems",
+    "systems$editing-documentatino.md": "Editing Documentation",
+    "systems$labeling-instructions.md": "Labeling Instructions",
+    "systems$networking.md": "Networking",
+    "systems$running-the-sub.md": "Running the Sub",
+    "systems$software-in-the-loop.md": "Running In Simulation",
+    "systems$testing-motors": "Testing Motors",
+    "systems$usb_perpherals.md": "USB Peripherals",
+    "tutorials": "Tutorials",
+    "tutorials$external-resources.md": "External Resources",
+    "tutorials$neural-networks-and-you.md": "Neural Networks and You!"
 }
