@@ -1,8 +1,4 @@
----
-title: Network Wrapper
-category: Development
-order: 2
----
+# Network Wrapper
 
 Jetson Nano ML install scripts, automated optimization of robotics detection models, and easy to use debugging flags
 
